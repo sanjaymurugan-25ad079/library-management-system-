@@ -1,0 +1,42 @@
+# Library Management System (DBMS Project)
+
+## 📚 Project Description
+The Library Management System is a database-driven application designed to manage library operations efficiently. It stores and manages book details, student information, book issue records, and return details. It reduces manual work and improves accuracy and efficiency.
+
+## 🎯 Objectives
+- Maintain book records efficiently.
+- Store student and library member details.
+- Manage book issuing and returning.
+- Track book availability.
+- Reduce paperwork and manual errors.
+
+## 🛠️ Technologies Used
+- **Database:** MySQL
+- **Query Language:** SQL
+- **Concept:** Database Management System (DBMS)
+
+## ✨ Features
+- Add, update, and delete book records.
+- Manage student details.
+- Issue books to students.
+- Record returned books.
+- Search for books by title or author.
+- Check book availability.
+
+## 🗄️ Database Tables
+- **Books:** Stores book ID, title, author, and availability.
+- **Students:** Stores student ID, name, and contact details.
+- **Issue_Records:** Stores issue ID, book ID, student ID, issue date, and return date.
+
+## ⚙️ How to Run
+1. Install MySQL on your system.
+2. Create a database named `library_management`.
+3. Create the required tables using SQL commands.
+4. Insert sample book and student records.
+5. Execute SQL queries to manage books, students, and transactions.
+
+## 📌 Expected Outcome
+The system provides an organized way to maintain library records, monitor book availability, and manage issue and return transactions accurately.
+
+## 👨‍🎓 Project Type
+Academic Mini Project – Database Management System (DBMS)
